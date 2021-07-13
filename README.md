@@ -7,7 +7,7 @@
   <h3> Setup Part </h3>
   <li> Now, visit https://app.strongblock.com/nodes and Copy the Endpoint (<b>https URL</b>) of the Node You Want to Check. </li>
   <li> Download the file <code> lets-test-the-node.py </code> present in this repository. </li>
-  <li> Replace the (<b>https URL</b>) in the File with your (<b>https URL</b>). </li>
+  <li> Replace the (<code>my_node_url</code>) in the File with your (<b>https URL</b>). </li>
   <li> Finally, run the file from your Editor (Say Sublime Text) or directly from your Terminal (Command Prompt, for Windows) by running the below code. <br>
     <code> python lets-test-the-node.py </code> 
 
