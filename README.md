@@ -1,5 +1,5 @@
 # Check-Your-StrongBlock-Node
-<img src = "https://strongblock.com/images/logo-icon-kit/side-by-side-logo/side-by-side-logo-xlarge-strongblock.png">
+<img src = "https://strongblock.com/images/logo-icon-kit/side-by-side-logo/side-by-side-logo-large-strongblock.png">
 <ol>
   <h3> > Installation Part </h3>
   <li> Install Python on Your Device. You can use see Python 3 Installation & Setup Guide for different devices <a href="https://realpython.com/installing-python/">here.</a></li>
