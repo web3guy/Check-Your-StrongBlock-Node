@@ -9,5 +9,8 @@
   <li> Download the file <code> lets-test-the-node.py </code> present in this repository. </li>
   <li> Replace the (<code>my_node_url</code>) in the File with your (<b>https URL</b>). </li>
   <li> Finally, run the file from your Editor (Say Sublime Text) or directly from your Terminal (Command Prompt, for Windows) by running the below code. <br>
-    <code> python lets-test-the-node.py </code> 
+    <code> python lets-test-the-node.py </code> </li>
+  
+ <h4> 🎉 Hurray! If everything went right, you will get 'True'  when you run this file. </h4>
+ <h4> 🚀 This also means that your Node is working perfectly as it was able to successfully connect with the Ethereum Blockchain.  </h4>
 
